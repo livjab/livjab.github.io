@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/IMG_4522.png"
+avatar: "/img/Screen Shot 2019-04-01 at 2.51.45 PM.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -48,7 +48,7 @@ navbar-children-col: "#b6aeab"
 page-col: "#ded6d3"
 link-col: "#708877"
 hover-col: "#2d4e43"
-footer-col: "#b6aeab"
+footer-col: "#c4d0ce"
 footer-text-col: "#0f3025"
 footer-link-col: "#708877"
 
