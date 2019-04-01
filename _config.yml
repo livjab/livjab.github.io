@@ -42,10 +42,10 @@ avatar: "/img/Screen Shot 2019-04-01 at 2.51.45 PM.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "c4d0ce" 
+navbar-col: "#c4d0ce" 
 navbar-text-col: "#0f3025"
 navbar-children-col: "#b6aeab"
-page-col: "#ded6d3"
+page-col: "#ffffff"
 link-col: "#708877"
 hover-col: "#2d4e43"
 footer-col: "#c4d0ce"
