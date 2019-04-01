@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/IMG_4522.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -42,13 +42,13 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#b6aeab" 
+navbar-col: "c4d0ce" 
 navbar-text-col: "#0f3025"
-navbar-children-col: "##b6aeab"
-page-col: "#c4d0ce"
+navbar-children-col: "#b6aeab"
+page-col: "#ded6d3"
 link-col: "#708877"
 hover-col: "#2d4e43"
-footer-col: "##b6aeab"
+footer-col: "#b6aeab"
 footer-text-col: "#0f3025"
 footer-link-col: "#708877"
 
