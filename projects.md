@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Untapped Potential
-subtitle: Making the U.S. An Energy Leader
+title: Projects
+subtitle: My Data Science Insights
 ---
-Take a look at my Medium post here.
+Take a look at these projects to get a glimpse of what I have been working on, and what types of things I am passionate about.
 
-- https://blog.usejournal.com/untapped-potential-making-the-u-s-an-energy-leader-378b387263fa?source=friends_link&sk=997e51020e1058c014d4eccd87b7a7d5
+- Renewable Energy Project
+- Tanzania Well Project
