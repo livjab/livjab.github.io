@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Liv Johnson's Data Place
+title: Liv Johnson's Data Portfolio
 
 # Short description of your site
 description: A place to check out my projects and blogs relating to data!
@@ -26,7 +26,6 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
@@ -78,7 +77,6 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
   email: "livjab@gmail.com"
   github: livjab
   linkedin: https://www.linkedin.com/in/liv-johnson-015523144/
