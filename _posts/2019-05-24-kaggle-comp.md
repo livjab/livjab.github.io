@@ -61,11 +61,11 @@ Using that knowledge, I continue to upgrade my model. I choose 8 of what I think
 ### Day 4
 This is what I like to call iteration day. I used my XGBClassifier, and tweaked things until there was nothing else to try. I ran probably 2 dozen models and changed one small item until I ran out of time (and patience.)
 
-Model 1 — 8 features, simple imputer, standard scaler: 78%
-Model 2 — 8 features, simple imputer, no scaler: 78%
-Model 3 — 8 features, tweaked parameters of simple imputer, standard scaler: 78%
-Model 4 — 8 features, simple imputer, robust scaler: 79%
-Model 5 — 9 features, simple imputer, standard scaler: 79%
+Model 1 — 8 features, simple imputer, standard scaler: 78%  
+Model 2 — 8 features, simple imputer, no scaler: 78%  
+Model 3 — 8 features, tweaked parameters of simple imputer, standard scaler: 78%  
+Model 4 — 8 features, simple imputer, robust scaler: 79%  
+Model 5 — 9 features, simple imputer, standard scaler: 79%  
 
 And on and on and on I went. I finally breached an accuracy score of 80, but I won’t go into detail how I got there. If you want to see the work behind my week, you can take a look at the code from my github repository here.
 
@@ -75,3 +75,5 @@ And on and on and on I went. I finally breached an accuracy score of 80, but I w
 - Cleaning your data can make a substantial difference.
 - Iteration can be a productive method if you have the time.
 
+
+Click <a href="https://towardsdatascience.com/the-highs-lows-and-plateaus-of-creating-a-machine-learning-model-970bf546ebf9?source=friends_link&sk=514cc85a8b9c541d256c57631d4607ed" target="_blank">here</a> to view this post on Medium. 
