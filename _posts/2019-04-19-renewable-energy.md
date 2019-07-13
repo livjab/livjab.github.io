@@ -12,10 +12,6 @@ In 2018, approximately 60% of the oil consumed each day in the U.S. was imported
 Over the last 50 years, the amount of electricity generated has continued to increase. There have been some efforts to begin incorporating renewable sources into our electricity generation methods, but currently renewable sources make up only 17% of the total.
 
 ![Graph](https://cdn-images-1.medium.com/max/2400/1*t0Ix5sqPgeHtu0gNRB0vIA.jpeg)
-![Graph](https://miro.medium.com/max/1400/1*zMWlPiLiOJ_iLaRCYkREWA.png)
-![Graph](https://miro.medium.com/max/1400/1*Jp8dSxOgR49HU2bOPeAVgg.png)
-![Graph](https://miro.medium.com/max/1400/1*79n89HfewxIJqWaHUDw_zg.png)
-![Graph](https://miro.medium.com/max/1400/1*DLhS4KkjCbTnZdMA0Xr9mA.png)
 
 A study was done by the U.S. Department of Energy estimating the potential for electricity generation for a number of renewable technologies, such as:
 
@@ -28,6 +24,10 @@ Solar (Rural PV, Urban PV, Rooftop PV, and Concentrating Solar Power)
 Each technology has a unique potential in each state, and illustrated below one can view geographically where the highest potential is for each technology.
 
 ![map](https://cdn-images-1.medium.com/max/1600/1*uh8HsD9eKEnS4G_x6xYIZw.png)
+![Graph](https://miro.medium.com/max/1400/1*zMWlPiLiOJ_iLaRCYkREWA.png)
+![Graph](https://miro.medium.com/max/1400/1*Jp8dSxOgR49HU2bOPeAVgg.png)
+![Graph](https://miro.medium.com/max/1400/1*79n89HfewxIJqWaHUDw_zg.png)
+![Graph](https://miro.medium.com/max/1400/1*DLhS4KkjCbTnZdMA0Xr9mA.png)
 
 Besides the fairly obvious observation that Texas and California have high potential for many of these technologies, these maps also show that the potential for each technology is spread across much of the country. This demonstrates a plausibility to gradually convert our energy production to more renewable sources, as we can fully utilize the entirety of the United States to maximize production.
 
