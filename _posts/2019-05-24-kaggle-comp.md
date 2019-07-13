@@ -8,7 +8,9 @@ As the capstone week of my second unit at Lambda School, our Data Science cohort
 
 Given a dataset from DrivenData that has information from the Tanzanian Ministry of Water, we were asked to make a machine learning model that accurately predicts the functionality of water pumps from the study.
 
-->![image](https://miro.medium.com/max/1280/1*acjGajb52gNQ1iuYGKKJjg.jpeg)<-
+<p align="center">
+  <img src="https://miro.medium.com/max/1280/1*acjGajb52gNQ1iuYGKKJjg.jpeg"/>
+</p>
 
  - The Goal: Create a model to predict the functionality of Tanzanian wells.
 
@@ -24,7 +26,9 @@ Functional: 0.543
 Non-functional: 0.384
 Functional Needs Repair: 0.072
 
-->![Graph](https://miro.medium.com/max/778/1*5XyJmS0gJ3bncG_LytxlCg.png)<-
+<p align="center">
+  <img src="https://miro.medium.com/max/778/1*5XyJmS0gJ3bncG_LytxlCg.png"/>
+</p>
 
 A 54% accuracy score is a start, but I know I can improve from here. After a quick glance at the data, I saw that a lot of columns have non-numeric data. It would take time to explore, clean, and encode this into numeric data before it is usable. I would like to make fast progress, so I elected to skip this step for now. I created a Linear Regression model using only the numeric columns, and got an accuracy score of 59%.
 
@@ -39,7 +43,9 @@ Up until this point, I haven’t spent any time cleaning or dealing with null va
 
 I did some feature engineering, and created a category called “age_of_pump” using the construction date and the year the pump had most recently been recorded. This turned out to be one of my most important features.
 
-![Graph](https://miro.medium.com/max/840/1*a1dnhOVm4d6NVT8hdTwJog.png)
+<p align="center">
+  <img src="https://miro.medium.com/max/840/1*a1dnhOVm4d6NVT8hdTwJog.png"/>
+</p>
 
 After a full day of cleaning, feature engineering, and encoding, I re-ran my model and improved my accuracy score by… about 6%.
 
