@@ -12,6 +12,10 @@ In 2018, approximately 60% of the oil consumed each day in the U.S. was imported
 Over the last 50 years, the amount of electricity generated has continued to increase. There have been some efforts to begin incorporating renewable sources into our electricity generation methods, but currently renewable sources make up only 17% of the total.
 
 ![Graph](https://cdn-images-1.medium.com/max/2400/1*t0Ix5sqPgeHtu0gNRB0vIA.jpeg)
+![Graph](https://miro.medium.com/max/1400/1*zMWlPiLiOJ_iLaRCYkREWA.png)
+![Graph](https://miro.medium.com/max/1400/1*Jp8dSxOgR49HU2bOPeAVgg.png)
+![Graph](https://miro.medium.com/max/1400/1*79n89HfewxIJqWaHUDw_zg.png)
+![Graph](https://miro.medium.com/max/1400/1*DLhS4KkjCbTnZdMA0Xr9mA.png)
 
 A study was done by the U.S. Department of Energy estimating the potential for electricity generation for a number of renewable technologies, such as:
 
@@ -43,4 +47,4 @@ Not only do we have the technological potential, we have a growing list of reaso
 
 
 
-Click [here](https://blog.usejournal.com/untapped-potential-making-the-u-s-an-energy-leader-378b387263fa?source=friends_link&sk=997e51020e1058c014d4eccd87b7a7d5) to view this post on Medium. 
+Click <a href="https://blog.usejournal.com/untapped-potential-making-the-u-s-an-energy-leader-378b387263fa?source=friends_link&sk=997e51020e1058c014d4eccd87b7a7d5" target="_blank">here</a> to view this post on Medium. 
