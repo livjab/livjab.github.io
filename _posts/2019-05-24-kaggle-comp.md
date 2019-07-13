@@ -8,7 +8,7 @@ As the capstone week of my second unit at Lambda School, our Data Science cohort
 
 Given a dataset from DrivenData that has information from the Tanzanian Ministry of Water, we were asked to make a machine learning model that accurately predicts the functionality of water pumps from the study.
 
-![image](https://miro.medium.com/max/1280/1*acjGajb52gNQ1iuYGKKJjg.jpeg)
+->![image](https://miro.medium.com/max/1280/1*acjGajb52gNQ1iuYGKKJjg.jpeg)<-
 
  - The Goal: Create a model to predict the functionality of Tanzanian wells.
 
@@ -23,7 +23,8 @@ If I were to make an initial model that predicts that every pump is functional, 
 Functional: 0.543
 Non-functional: 0.384
 Functional Needs Repair: 0.072
-![Graph](https://miro.medium.com/max/778/1*5XyJmS0gJ3bncG_LytxlCg.png)
+
+->![Graph](https://miro.medium.com/max/778/1*5XyJmS0gJ3bncG_LytxlCg.png)<-
 
 A 54% accuracy score is a start, but I know I can improve from here. After a quick glance at the data, I saw that a lot of columns have non-numeric data. It would take time to explore, clean, and encode this into numeric data before it is usable. I would like to make fast progress, so I elected to skip this step for now. I created a Linear Regression model using only the numeric columns, and got an accuracy score of 59%.
 
